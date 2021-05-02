@@ -1,4 +1,5 @@
-# Volume-Controller-Using-Hand-tracker
+# MediaPipe Hand Tracking
+
 
 
 Credits:
